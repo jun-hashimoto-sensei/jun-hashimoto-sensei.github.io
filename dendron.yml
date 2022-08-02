@@ -84,6 +84,7 @@ preview:
     automaticallyShowPreview: false
 publishing:
     siteUrl: 'https://jun-hashimoto-sensei.github.io'
+    assetsPrefix: 'test'
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
