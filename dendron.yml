@@ -93,6 +93,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
+    siteUrl: https://jun-hashimoto-sensei.github.io
     seo:
         title: Dendron
         description: Personal Knowledge Space
