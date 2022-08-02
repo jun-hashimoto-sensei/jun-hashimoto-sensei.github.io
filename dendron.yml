@@ -83,6 +83,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+    siteUrl: 'https://jun-hashimoto-sensei.github.io'
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
@@ -93,7 +94,6 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
-    siteUrl: https://jun-hashimoto-sensei.github.io
     seo:
         title: Dendron
         description: Personal Knowledge Space
@@ -108,9 +108,3 @@ publishing:
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
-site:
-    siteHierarchies:
-        - root
-    siteRootDir: docs
-    siteUrl: https://jun-hashimoto-sensei.github.io
-    title: jun-hashimoto-sensei
