@@ -108,3 +108,9 @@ publishing:
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
+site:
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    siteUrl: https://jun-hashimoto-sensei.github.io
+    title: jun-hashimoto-sensei
