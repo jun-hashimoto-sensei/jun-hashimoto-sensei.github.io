@@ -1,0 +1,22 @@
+{
+  "name": "jun-hashimoto-sensei.github.io",
+  "version": "1.0.0",
+  "description": "Dendron playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jun-hashimoto-sensei/jun-hashimoto-sensei.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jun-hashimoto-sensei/jun-hashimoto-sensei.github.io/issues"
+  },
+  "homepage": "https://github.com/jun-hashimoto-sensei/jun-hashimoto-sensei.github.io#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.105.2"
+  }
+}
