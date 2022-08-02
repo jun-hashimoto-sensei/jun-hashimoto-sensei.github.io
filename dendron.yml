@@ -22,7 +22,7 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: .
+            fsPath: notes
             selfContained: true
             name: jun-hashimoto-sensei.github.io
     journal:
